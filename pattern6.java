@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class pattern6 {
+public class Pattern6 {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
